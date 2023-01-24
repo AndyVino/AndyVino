@@ -2,4 +2,3 @@
 - 👀 I’m interested in everything about programming
 - 🌱 I’m currently learning the basics, starting with HTML, CSS, JS, React and Vue
 - 🤝 I’m looking to collaborate on the journey to becoming a Frontend Developer
-- 💞️ I'm in love with Zimony
